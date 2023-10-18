@@ -1,0 +1,15 @@
+{
+  "name": "one-page-website-html-css-project",
+  "version": "1.0.0",
+  "description": "![Watch Now](./img/Design.jpg)\r # One page Portfolio Website (HTML CSS Project)\r **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
